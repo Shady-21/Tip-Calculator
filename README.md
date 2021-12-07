@@ -1,5 +1,5 @@
 ## Tip Calculator
-
+Will calculate the amount each person should pay (tip included)
 
 # Example Input
 
